@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 中国节日
-tag: 中国节目
+tag: 博客
 ---
 
 主要节日
